@@ -1,0 +1,50 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    width: 100%;
+    background: linear-gradient(to top, rgba(185, 7, 7, 0.5)50%,rgba(0,0,0,0.5)50%);
+    background-position: absolute;
+    
+    
+    text-align: center;
+    margin-left: 0px;
+    
+    
+}
+
+.menu {
+    background-color: #d8d854;
+    border: 2px solid rgb(215, 42, 42);
+    position: fixed;
+    border-radius: 4px;
+    width: 5px;
+    float: left;
+    height: 10px;
+   padding: 30px 50px;
+   margin-top: -50px;
+   margin-left: 130px;
+    box-shadow: 0px 0px 10px 0px rgba(48, 35, 35, 0.445);
+}
+
+.menu ul{
+    float: none;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+
+.menu ul li{
+    list-style: none;
+            margin-left: 47px;
+            margin-top: -40px;
+            font-size: 20px;
+}
+
+.menu ul li a{
+
+    
+}
